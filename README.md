@@ -10,7 +10,7 @@ Higher or lower? In this quiz game, you get to guess who has more followers and 
 ***
 ## Usage example
 
-
+![higher or lower game](https://user-images.githubusercontent.com/37813839/114094754-0e274080-9893-11eb-94fd-b75492cc6bc8.gif)
 
 
 ## How to play
