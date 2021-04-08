@@ -1,4 +1,7 @@
-# Who has more instagram followers game
+
+![Design sem nome (1)](https://user-images.githubusercontent.com/37813839/114098007-2731f080-9897-11eb-968f-e120311f6cd8.png)
+
+
  
 ## About
 
